@@ -1,0 +1,66 @@
+.head_txt
+{
+	padding: 6em 0;
+	/* Appearance Declrations */
+	background-image: url('http://i.imgur.com/lvXbgcg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-top: solid 1em #FFCF33;
+}
+
+.align_ct
+{
+text-align: center;
+padding-left: auto;
+padding-right: auto;
+font-size: 40px;
+font-family: "Gentium Book Basic", Georgia, serif;
+color: #FF9900;
+}
+
+.Intro2
+{
+margin: 0 auto;
+padding-left: 100px;
+padding-right: 70px;
+width: 600px;
+}
+
+
+.Intro
+{
+margin: 0 auto;
+padding-top: 40px;
+padding-left: 100px;
+padding-right: 70px;
+width: 600px;
+}
+
+.sect_heading
+{
+font-size: 30px;
+font-weight: bold;
+}
+
+.sub_heading
+{
+Color: #FF9900;
+}
+
+footer
+{
+width: 100%;
+background-color: orange;
+padding-bottom: 50px;
+}
+
+.foot_txt
+{
+text-align: center;
+padding-top: 20px;
+}
+
+.social > li
+{
+display:inline-block;
+}
